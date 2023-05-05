@@ -11,14 +11,16 @@ It contains files such as...
 + Planning for development
 
 ## What is even "Depth Walker"?
-Depth Walker is a Sci-Fi Action-Adventure First Person Shooter(FPS) project directed by Kabir Akzaman and developed by the OpenNullanoid community contributors.
+Depth Walker, directed by Kabir Akzaman and developed by the OpenNullanoid community contributors, is an exhilarating Sci-Fi Action-Adventure First Person Shooter (FPS) project.
 
-The player plays out the role of a special robot agent named "RektifierKX" developed by Mechmorphix.
+In this thrilling game, players assume the role of RektifierKX, an advanced robot agent developed by Mechmorphix, an esteemed AI technology company working in partnership with the Law Enforcement agencies of Kioxia city.
 
-Mechmorphix is a well known AI Technology company who works for the Law Enforments of the city "Kioxia".
+Within Kioxia, the notorious criminal organization known as DarkWave has been engaging in illegal activities, supplying cutting-edge technology to criminals. When DarkWave's human personnel evaded capture, they left behind sensitive information guarded by their dangerous machinery.
 
-For quite some time there has been a lot of illegal dealership done by a criminal organization known as "DarkWave". Who is known for creating advanced Technology for selling to criminals for a lot.
+As RektifierKX, players must embark on a stealth-based infiltration mission into the abandoned DarkWave facility. Using their exceptional skills, players must gather crucial intel while avoiding detection, unraveling the criminal organization's secrets.
 
-After being detected by the law, the human personnel escaped theier development facilty but left behind sensitive information under the guard of dangerous machinery made by them.
+Through intense action, strategic decision-making, and immersive stealth gameplay, players will explore the depths of the facility, uncovering a web of corruption and criminal activities that must be stopped.
 
-The protagonist would infiltrate into the facilty and use stealth tatics to gather as much information as possible.
+Will RektifierKX outsmart DarkWave, retrieve vital information, and restore order to Kioxia? Prepare for a captivating journey filled with danger, intrigue, and high-tech espionage.
+
+## What about the licences?
