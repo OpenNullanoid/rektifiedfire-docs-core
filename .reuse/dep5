@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: rektifiedfire-docs-core
+Upstream-Contact: Kabir Akzaman <kaabirherococ@gmail.com>
+Source: https://github.com/OpenNullanoid/rektifiedfire-docs-core/
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...

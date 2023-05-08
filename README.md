@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2023 Kabir Akzaman <kaabirherococ@gmail.com>
+
+SPDX-License-Identifier: CC-BY-NC-SA-4.0
+-->
+
 ## Internal Documentation for developing the project codename RektifiedFire
 
 This is not same as any other Documentation as it contains the internal files necessary for developing the game "Depth Walker".
