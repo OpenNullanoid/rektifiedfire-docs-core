@@ -3,32 +3,31 @@ SPDX-FileCopyrightText: 2023 Kabir Akzaman <kaabirherococ@gmail.com>
 
 SPDX-License-Identifier: CC-BY-NC-SA-4.0
 -->
+## Internal Documentation for Developing Project Codename RektifiedFire
 
-## Internal Documentation for developing the project codename RektifiedFire
+This documentation contains essential internal files required for developing the game Depth Walker.
 
-This is not same as any other Documentation as it contains the internal files essential for developing the game "Depth Walker".
+### Contents of the Repository
 
-#### What does it contain?
-It contains files such as...
+The repository includes the following files:
 
-+ **Game's story** - This would explain the lore and the storyline of the depth Walker
-+ **Screenplay script** - This would contain the screenplay script which would describe the 
-+ **Logos and other core branding** - This repo would contain the essential branding which would be governed by the CC-BY-NC-4.0
-+ **Planning for development** - This repo would also host files necessarry files which absolutely essential to the development.
++ **Game Story** - Provides the backstory and plotline for Depth Walker
++ **Screenplay Script** - Includes the screenplay for the game
++ **Logos and Core Branding** - Contains essential branding elements
++ **Development Planning** - Includes necessary files crucial to the development process
 
-## What is even "Depth Walker"?
-Depth Walker, directed by Kabir Akzaman and developed by the OpenNullanoid community contributors, is an exhilarating Sci-Fi Action-Adventure First Person Shooter (FPS) project.
+## What is Depth Walker?
 
-In this thrilling game, players assume the role of RektifierKX, an advanced robot agent developed by Mechmorphix, an esteemed AI technology company working in partnership with the Law Enforcement agencies of Kioxia city.
+Depth Walker is an action-packed first-person shooter (FPS) game that falls under the sci-fi action-adventure genre. Directed by Kabir Akzaman and developed by OpenNullanoid community contributors, Depth Walker is an exciting project to work on.
 
-Within Kioxia, the notorious criminal organization known as DarkWave has been engaging in illegal activities, supplying cutting-edge technology to criminals. When DarkWave's human personnel evaded capture, they left behind sensitive information guarded by their dangerous machinery.
+In the game, players take on the role of RektifierKX, an advanced robot agent created by Mechmorphix, a reputable AI technology company working with law enforcement agencies in Kioxia city.
 
-As RektifierKX, players must embark on a stealth-based infiltration mission into the abandoned DarkWave facility. Using their exceptional skills, players must gather crucial intel while avoiding detection, unraveling the criminal organization's secrets.
+The notorious DarkWave criminal organization has been conducting illegal activities within Kioxia, providing high-tech gadgets to criminals. However, when the organization's human personnel escaped, they left behind valuable information under the protection of their dangerous machinery.
 
-Through intense action, strategic decision-making, and immersive stealth gameplay, players will explore the depths of the facility, uncovering a web of corruption and criminal activities that must be stopped.
+As RektifierKX, players must infiltrate the abandoned DarkWave facility stealthily, collect information and avoid detection. By using exceptional skills and making strategic decisions, players uncover secrets and stop criminal activities to restore order to Kioxia.
 
-Will RektifierKX outsmart DarkWave, retrieve vital information, and restore order to Kioxia? Prepare for a captivating journey filled with danger, intrigue, and high-tech espionage.
+Through immersive stealth gameplay, intense action, and intriguing storylines, players explore the facility's depths, uncovering corruption and criminal activities that must be stopped.
 
-## What about the licences?
+## Licensing
 
-The files in the repostory is licenced mainly under the Creative Commons Attribution Non-Commercial ShareAlike 4.0, As we would love collaboration but not any u
+The repository is mainly licensed under Creative Commons Attribution Non-Commercial ShareAlike 4.0. This license encourages collaboration while restricting unauthorized commercial use. This project is also REUSE-compliant, respecting the licenses of third-party assets like fonts.
