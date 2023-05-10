@@ -6,15 +6,15 @@ SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 ## Internal Documentation for developing the project codename RektifiedFire
 
-This is not same as any other Documentation as it contains the internal files necessary for developing the game "Depth Walker".
+This is not same as any other Documentation as it contains the internal files essential for developing the game "Depth Walker".
 
 #### What does it contain?
 It contains files such as...
 
-+ Game's story
-+ "Screenplay" script
-+ Logos and other core branding
-+ Planning for development
++ **Game's story** - This would explain the lore and the storyline of the depth Walker
++ **Screenplay script** - This would contain the screenplay script which would describe the 
++ **Logos and other core branding** - This repo would contain the essential branding which would be governed by the CC-BY-NC-4.0
++ **Planning for development** - This repo would also host files necessarry files which absolutely essential to the development.
 
 ## What is even "Depth Walker"?
 Depth Walker, directed by Kabir Akzaman and developed by the OpenNullanoid community contributors, is an exhilarating Sci-Fi Action-Adventure First Person Shooter (FPS) project.
@@ -30,3 +30,5 @@ Through intense action, strategic decision-making, and immersive stealth gamepla
 Will RektifierKX outsmart DarkWave, retrieve vital information, and restore order to Kioxia? Prepare for a captivating journey filled with danger, intrigue, and high-tech espionage.
 
 ## What about the licences?
+
+The files in the repostory is licenced mainly under the Creative Commons Attribution Non-Commercial ShareAlike 4.0, As we would love collaboration but not any u
