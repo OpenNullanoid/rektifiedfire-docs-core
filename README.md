@@ -40,4 +40,4 @@ This license allows for collaboration on the project while preventing any unauth
 
 As a REUSE-compliant project, we respect the licenses of any third-party assets used in the development of the game, such as fonts or music, and will ensure that they are used in compliance with their respective licenses.
 
-Please refer to the LICENSE file in the repository for more information about the terms and conditions of this license.
+Please refer to the LICENSEs folder in the repository for more information about the terms and conditions of this license.
