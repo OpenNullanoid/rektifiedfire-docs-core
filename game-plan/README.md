@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2023 Kabir Akzaman <kaabirherococ@gmail.com>
+
+SPDX-License-Identifier: CC0-1.0
+-->
+
 # This is where the fun(and potentially stress) begins!
 
 Here, you'll (may) find all the essential files necessary for keeping our development on track. 
