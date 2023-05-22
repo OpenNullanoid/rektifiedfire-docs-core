@@ -7,6 +7,8 @@ SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 This documentation contains essential internal files required for developing the game Depth Walker.
 
+⚠️ If you think that there is something wrong in the writing then immediately open a issue or a pull request.
+
 ### Contents of the Repository
 
 The repository includes the following files:
@@ -40,4 +42,4 @@ This license allows for collaboration on the project while preventing any unauth
 
 As a REUSE-compliant project, we respect the licenses of any third-party assets used in the development of the game, such as fonts or music, and will ensure that they are used in compliance with their respective licenses.
 
-Please refer to the LICENSEs folder in the repository for more information about the terms and conditions of this license.
+Please refer to the LICENSES folder in the repository for more information about the terms and conditions of this license.
