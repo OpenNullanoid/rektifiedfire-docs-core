@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2023 Kabir Akzaman <kaabirherococ@gmail.com>
+
+SPDX-License-Identifier: CC0-1.0
+-->
 
 This folder contains SVG files created specifically with Inkscape, and they have been saved in the Inkscape-specific format.
 
