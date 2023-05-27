@@ -1,6 +1,5 @@
-# The characters
-The characters and thier biography for the story "Depth Walker: Vengeance" aka RektifiedFire.
-This going to contain almost every character's biography which would be featured on that game.
+# Character Biographies
+Welcome to the character biographies for "Depth Walker: Vengeance" (aka RektifiedFire). Here you will find brief introductions to the diverse range of characters featured in the game. Explore their backgrounds, motivations, and roles as you delve into the immersive world of "Depth Walker: Vengeance." Uncover the secrets and mysteries that await you on this thrilling journey. Get ready to meet a captivating cast of characters who will shape your adventure.
 
 ## Protagonist Side
 
@@ -16,7 +15,6 @@ Through his guidance, players will embark on a thrilling journey, discovering th
 
 ### RektifierKX
 #### 4 Months - Humanoid(Male-Like) - Military Robotic Agent at Mechamorphix
-
 RektifierKX is an advanced robotic agent developed by Mechamorphix, powered by the ReImaginator V2 Processor and an AI system based on open source software.
 
 This AI system has been trained using the neural patterns and combat expertise of a renowned military soldier, imbuing RektifierKX with exceptional stealth capabilities and a personality closely resembling that of its predecessor.
