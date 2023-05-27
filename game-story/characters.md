@@ -13,3 +13,14 @@ As the creator of RektifierKX and the driving force behind Mechamorphix, Profess
 With a mysterious past and unwavering commitment to advancing technology for the betterment of humanity, Professor Springlight is a complex character who holds the key to unlocking the truth behind the mission.
 
 Through his guidance, players will embark on a thrilling journey, discovering the depths of his intellect and the sacrifices he has made in pursuit of his vision. Professor Kenny Springlight is the embodiment of innovation and serves as a beacon of hope in the quest for justice and truth.
+
+### RektifierKX
+#### 4 Months - Humanoid(Male-Like) - Military Robotic Agent at Mechamorphix
+
+RektifierKX is an advanced robotic agent developed by Mechamorphix, powered by the ReImaginator V2 Processor and an AI system based on open source software.
+
+This AI system has been trained using the neural patterns and combat expertise of a renowned military soldier, imbuing RektifierKX with exceptional stealth capabilities and a personality closely resembling that of its predecessor.
+
+With its unparalleled physical and cognitive abilities, RektifierKX is a formidable force in both covert operations and combat scenarios.
+
+As players take control of RektifierKX, they will uncover secrets, engage in intense battles, and witness the true potential of this extraordinary robotic agent.
