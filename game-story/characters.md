@@ -22,3 +22,11 @@ As the creator of RektifierKX and the driving force behind Mechamorphix, Profess
 With a mysterious past and unwavering commitment to advancing technology for the betterment of humanity, Professor Springlight is a complex character who holds the key to unlocking the truth behind the mission.
 
 Through his guidance, players will embark on a thrilling journey, discovering the depths of his intellect and the sacrifices he has made in pursuit of his vision. Professor Kenny Springlight is the embodiment of innovation and serves as a beacon of hope in the quest for justice and truth.
+
+### Sergeant Alexander
+#### 53 Years - Male - Leader of the Law Enforcement Agency
+Sergeant Alexander is a retired military veteran who brings a wealth of experience and leadership to the law enforcement agency. Having served in high-stakes operations during his military career, he has honed his skills in strategy, combat, and team coordination.
+
+Despite retiring from active duty, his passion for justice and his unwavering commitment to protecting the city remain strong. As the dedicated leader of the law enforcement team, Sergeant Alexander utilizes his expertise and wisdom to guide his fellow officers and ensure the success of their missions.
+
+With his calm demeanor and authoritative presence, he instills confidence in his team members and inspires them to reach their full potential.
